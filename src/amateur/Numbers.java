@@ -3,14 +3,6 @@ package amateur;
 import java.util.Scanner;
 
 public class Numbers {
-    public int sumNumbers() {
-        int sum = 0;
-        for (int i = 0; i <= 1000; i++) {
-            sum += i;
-        }
-        return sum;
-    }
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
@@ -19,7 +11,14 @@ public class Numbers {
             System.out.println(num.sumNumbers());
         }
         scanner.close();
+
     }
 
-
+    public int sumNumbers() {
+        int sum = 0;
+        for (int i = 0; i <= 1000; i++) {
+            sum += i;
+        }
+        return sum;
+    }
 }
