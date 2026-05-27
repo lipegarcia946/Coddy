@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b081040-d109-4c25-9dd1-44006d5d11f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Coddy2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-    </list>
+    <list default="true" id="2b081040-d109-4c25-9dd1-44006d5d11f0" name="Changes" comment="Adicionando os arquivos XML vcs e workspace" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +63,15 @@
       <option name="presentableId" value="Default" />
       <updated>1779907002278</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adicionando os arquivos XML vcs e workspace">
+      <option name="closed" value="true" />
+      <created>1779907707350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779907707350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionando os arquivos XML vcs e workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando os arquivos XML vcs e workspace" />
   </component>
 </project>
