@@ -22,13 +22,13 @@ public class Func_Param_Over {
     public static void main(String[] args) {
         int SquarArea;
         int RetangArea;
-        double CircleArea;// Test your methods with these exact values
+        double CircleArea, rad = 2.5;// Test your methods with these exact values
         System.out.print("Calculando..........:\n");
         SquarArea = calculateArea(5); // square
         System.out.println("A area do quadrado:  " + SquarArea);
         RetangArea = calculateArea(4, 6);
         System.out.println("A area do retangulo:  " + RetangArea); // rectangle
         CircleArea = calculateArea(2.5); // circle
-        System.out.println("A area do Circulo:  " + CircleArea);
+        System.out.printf("A area do Circulo com: %f  Area: %.2f  ", rad, CircleArea);
     }
 }
