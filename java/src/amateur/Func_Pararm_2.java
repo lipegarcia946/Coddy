@@ -8,6 +8,7 @@ public class Func_Pararm_2 {
             return arg1;
         } else {
             return arg2;
+             biggest = arg2;
         }
     }
 
