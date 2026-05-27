@@ -10,12 +10,13 @@ public class Numbers {
         for (int i = 0; i < n; i++) {
             System.out.println(num.sumNumbers());
         }
-
+        scanner.close();
     }
-    public int sumNumbers(){
+
+    public int sumNumbers() {
         int sum = 0;
-        for (int i =0;i<=1000; i++){
-            sum+=i;
+        for (int i = 0; i <= 1000; i++) {
+            sum += i;
         }
         return sum;
     }

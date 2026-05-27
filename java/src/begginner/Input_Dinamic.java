@@ -1,16 +1,19 @@
 package begginner;
+
 import java.util.Scanner;
+
 public class Input_Dinamic {
     public static void main(String[] args) {
-        int soma= 0;
+        int soma = 0;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Entre com um numero: ");
         int num;
         int n = scanner.nextInt();
         for (int i = 0; i < n; i++) {
-           num= scanner.nextInt();
-           soma += num;
+            num = scanner.nextInt();
+            soma += num;
         }
-        System.out.println("Soma Final " +soma);
+        scanner.close();
+        System.out.println("Soma Final " + soma);
     }
 }
