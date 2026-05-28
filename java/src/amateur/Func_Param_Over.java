@@ -1,3 +1,5 @@
+package amateur;
+
 public class Func_Param_Over {
     // Write your calculateArea methods here
     public static int calculateArea(int a) {

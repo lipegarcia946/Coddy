@@ -4,11 +4,12 @@ import java.util.Scanner;
 
 public class Func_Pararm_2 {
     public static double bigger(double arg1, double arg2) {
+
         if (arg1 > arg2) {
             return arg1;
         } else {
             return arg2;
-             biggest = arg2;
+
         }
     }
 
