@@ -12,7 +12,7 @@ os códigos estão dentro das pastas java/src, tendo a separação definida pela
 |ameateur         |Pacote com os códigos do nivel 2 da trilha. 
 |DataStructure    |Pacote com os códigos do nivel 3 (Estrura de Dados) da trilha.
 
-================================================================================
+===============================================================================
 
 ## Ferramentas utilizadas
 
