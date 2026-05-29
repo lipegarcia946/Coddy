@@ -9,7 +9,7 @@ public class StaticArray {
             System.out.println(shoppingList[i]);
 //
 //        forma melhor para escrever essa lista
-//        for (String s : shoppingList) {
+//        forech (String s : shoppingList) {
 //            System.out.println(s);
 //        }
         }
