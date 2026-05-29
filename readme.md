@@ -3,7 +3,7 @@
 
 --------------------------------------------
 
-os códigos estão dentro das pastas java e src, tendo a separação definida pela estrura a seguir:
+os códigos estão dentro das pastas java/src, tendo a separação definida pela estrura a seguir:
 
 **Estrutura:**
 | Pacote (packge) |     Descrição                                             |
