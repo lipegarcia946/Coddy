@@ -6,12 +6,13 @@
 os códigos estão dentro das pastas java e src, tendo a separação definida pela estrura a seguir:
 
 **Estrutura:**
-| Pacote (packge) |Descrição                          |
-|---------------- |-----------------------------------------------|
-|beginner         |pacote com os códigos do nivel 1 da trilha.
-|ameateur         | pacote com os códigos do nivel 2  da trilha. 
+| Pacote (packge) |     Descrição                                             |
+|---------------- |-----------------------------------------------------------|
+|beginner         |Pacote com os códigos do nivel 1 da trilha.
+|ameateur         |Pacote com os códigos do nivel 2 da trilha. 
+|DataStructure    |Pacote com os códigos do nivel 3 (Estrura de Dados) da trilha.
 
-====================================================
+================================================================================
 
 ## Ferramentas utilizadas
 
