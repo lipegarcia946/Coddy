@@ -1,4 +1,5 @@
 package DataStructure;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -20,7 +21,6 @@ public class Func_StaticArray {
         return arr3;
     }
 
-
     public static void main(String[] args) {
         System.out.print("Para começar , Digite 2 conjuntos de valores:  ");
         Scanner scanner = new Scanner(System.in);
@@ -33,6 +33,7 @@ public class Func_StaticArray {
         String[] arr2 = textArr2.split(",");
 
         String[] mergedArray = merge(arr1, arr2);
-        System.out.println(" O Conjunto de valores resultantes é : " +Arrays.toString(mergedArray));
+        System.out.println(" O Conjunto de valores resultantes é : " + Arrays.toString(mergedArray));
+        scanner.close();
     }
 }

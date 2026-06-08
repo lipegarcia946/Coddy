@@ -1,4 +1,5 @@
-import java.awt.*;
+package DataStructure;
+
 import java.util.Scanner;
 import java.util.Arrays;
 public class Func_StaticArray_String {
